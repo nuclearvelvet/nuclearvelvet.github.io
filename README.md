@@ -5,7 +5,7 @@
   <li>Began learning HTML5.</li>
   </ol>
 <h3>Personal Information</h3>
-  <h5>My likes:</h5><br>
+  <h5>My likes:</h5>
     <ul>
       <li>Black coffee</li>
       <li>Runny eggs</li>
