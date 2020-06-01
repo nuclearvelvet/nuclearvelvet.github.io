@@ -6,8 +6,8 @@
   </ol>
 <h3>Personal Information</h3>
   <h5>My likes:</h5>
-    <ul>
+    <ol>
       <li>Black coffee</li>
       <li>Runny eggs</li>
       <li>Burnt toast</li>
-    </ul>
+    </ol>
